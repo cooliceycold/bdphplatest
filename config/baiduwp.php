@@ -1,0 +1,26 @@
+<?php
+// +----------------------------------------------------------------------
+// | Baiduwp-php 应用设置
+// +----------------------------------------------------------------------
+//
+// 本文件由程序自动生成，请勿随意修改，以免失效！
+return array (
+  'site_name' => 'IceyDownload',
+  'program_version' => '4.0.3',
+  'password' => 'wcnm',
+  'admin_password' => 'aini1314',
+  'db' => true,
+  'link_expired_time' => 8,
+  'times' => 5,
+  'flow' => 10,
+  'check_speed_limit' => true,
+  'random_account' => false,
+  'cookie' => 'XFI=b40678eb-be53-1c04-9837-992449a70468; XFCS=68E78688DCAD17BBDDDB5675869C6F0C865C76515365209F4263525A143F5A52; XFT=6Qz9dMtSskC+5AvrgiWy0Cg3PE7GXP6EdOP8+wNaxGk=; csrfToken=rBGLrAaiU6OMNDKwC2X0SeSp; newlogin=1; BAIDUID=1CCA4F921AF3DE2E76D89A8B21278D60:FG=1; BAIDUID_BFESS=1CCA4F921AF3DE2E76D89A8B21278D60:FG=1; BDUSS=jFKTEJSR0tHOExONjhmaENidmM0ODlRWHdyeUJiT0YtZm9PNFZ6ajY4ellnSFptRVFBQUFBJCQAAAAAAAAAAAEAAACaenGOwNa527XEsKK60wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANjzTmbY805mY; BDUSS_BFESS=jFKTEJSR0tHOExONjhmaENidmM0ODlRWHdyeUJiT0YtZm9PNFZ6ajY4ellnSFptRVFBQUFBJCQAAAAAAAAAAAEAAACaenGOwNa527XEsKK60wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANjzTmbY805mY; STOKEN=a1bae6a3a595b8233c01c9761d1e2509724cd7c6cc0713f3339bb5843cd794f0; Hm_lvt_7a3960b6f067eb0085b7f96ff5e660b0=1716450276; Hm_lpvt_7a3960b6f067eb0085b7f96ff5e660b0=1716450276; PANPSC=11188328672688629934%3ACU2JWesajwDDXziI9D2QYKPTzGELv%2B1dmGjwch6H1qEPHj5gTuY%2BiTES%2FoCVKIKdymkpECke1UYr2wqYbSNJzGe1T6ESjqMhsidAl%2Fw97NkuRevHA8Yw6tthklJhx6JJPSVqnq9xy669gPFKL%2FgAW8e5FP%2BN79BDT61wzjmtxAQxrmmQowLs1mKmXcvc2dd5r2JN1MHoKe4Bq4RltvI7Ld%2Fm0OBSR2kvJDCABb9nWGTrbkBUnMiFfw%3D%3D; ndut_fmt=50ADF5A60170FC148B117C83A42AAB97A5E269F5C092E5F164F87F61F3F749C5; ab_sr=1.0.1_MGVhMzZmM2Q2NWQ0ZWNjZmNiOWFhYjQzMTI2ZTJhNzQ0ZjI0NGM2OWI3YjIwOTIwYzg1MDJjNTgzYThhNzJiZTNiODBjNTMyMDMxYTY3NTU4YmU2OTJlY2U1YWI3NGExZGI0NjRjZmZhZjZiZTYzMmM5OTUwMjYyYTFjZmMwZGMzZTc0M2FhMjc2ZGU5YTAyZjU0MGE1YTU1MDkyZDUwYTA5NDI2ZGZlODBlNmQzNjc4YjgyYWE3NmEwYTAzZTlj',
+  'svip_cookie' => 'XFI=b40678eb-be53-1c04-9837-992449a70468; XFCS=68E78688DCAD17BBDDDB5675869C6F0C865C76515365209F4263525A143F5A52; XFT=6Qz9dMtSskC+5AvrgiWy0Cg3PE7GXP6EdOP8+wNaxGk=; csrfToken=rBGLrAaiU6OMNDKwC2X0SeSp; newlogin=1; BAIDUID=1CCA4F921AF3DE2E76D89A8B21278D60:FG=1; BAIDUID_BFESS=1CCA4F921AF3DE2E76D89A8B21278D60:FG=1; BDUSS=jFKTEJSR0tHOExONjhmaENidmM0ODlRWHdyeUJiT0YtZm9PNFZ6ajY4ellnSFptRVFBQUFBJCQAAAAAAAAAAAEAAACaenGOwNa527XEsKK60wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANjzTmbY805mY; BDUSS_BFESS=jFKTEJSR0tHOExONjhmaENidmM0ODlRWHdyeUJiT0YtZm9PNFZ6ajY4ellnSFptRVFBQUFBJCQAAAAAAAAAAAEAAACaenGOwNa527XEsKK60wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANjzTmbY805mY; STOKEN=a1bae6a3a595b8233c01c9761d1e2509724cd7c6cc0713f3339bb5843cd794f0; Hm_lvt_7a3960b6f067eb0085b7f96ff5e660b0=1716450276; Hm_lpvt_7a3960b6f067eb0085b7f96ff5e660b0=1716450276; PANPSC=11188328672688629934%3ACU2JWesajwDDXziI9D2QYKPTzGELv%2B1dmGjwch6H1qEPHj5gTuY%2BiTES%2FoCVKIKdymkpECke1UYr2wqYbSNJzGe1T6ESjqMhsidAl%2Fw97NkuRevHA8Yw6tthklJhx6JJPSVqnq9xy669gPFKL%2FgAW8e5FP%2BN79BDT61wzjmtxAQxrmmQowLs1mKmXcvc2dd5r2JN1MHoKe4Bq4RltvI7Ld%2Fm0OBSR2kvJDCABb9nWGTrbkBUnMiFfw%3D%3D; ndut_fmt=50ADF5A60170FC148B117C83A42AAB97A5E269F5C092E5F164F87F61F3F749C5; ab_sr=1.0.1_MGVhMzZmM2Q2NWQ0ZWNjZmNiOWFhYjQzMTI2ZTJhNzQ0ZjI0NGM2OWI3YjIwOTIwYzg1MDJjNTgzYThhNzJiZTNiODBjNTMyMDMxYTY3NTU4YmU2OTJlY2U1YWI3NGExZGI0NjRjZmZhZjZiZTYzMmM5OTUwMjYyYTFjZmMwZGMzZTc0M2FhMjc2ZGU5YTAyZjU0MGE1YTU1MDkyZDUwYTA5NDI2ZGZlODBlNmQzNjc4YjgyYWE3NmEwYTAzZTlj',
+  'footer' => '<style>.btn-outline-secondary {display:none;}
+.wl-card .wl-meta > span.wl-addr {background-color: rgba(0, 0, 0, 0);font-weight:bolder;color:black;}  .wl-card .wl-meta > span.wl-browser {background-color: rgba(0, 0, 0, 0);font-weight:bolder;color:black;}  .wl-card .wl-meta > span.wl-os {background-color: rgba(0, 0, 0, 0);font-weight:bolder;color:black;}
+.wl-power {display: none;} 
+#wl-edit{background:url(https://mc.rslist.cf/get/@:jiojio.cf?theme=gelbooru-h);background-size: contain;background-repeat: no-repeat;background-position:center;background-color:rgba(255,255,255,0.3);}.wl-card {color:black !important; font-weight:bolder !important;} .wl-time {color:black !important; font-weight:bolder !important;}.wl-comment {background-color: rgba(0, 0, 0, 0)!important;}
+.wl-panel {background-color: rgba(0, 0, 0, 0)!important;}
+.wl-input {background-color: rgba(0, 0, 0, 0)!important;}</style>',
+);
