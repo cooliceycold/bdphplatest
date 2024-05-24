@@ -134,3 +134,66 @@ nav.breadcrumb {
 select {
 	margin-top: 0.5rem;
 }
+
+body {
+    background: url(https://api.echs.top) no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    cursor:url('https://pic.imgdb.cn/item/65f172079f345e8d0314a6fa.png'), auto;
+}
+
+select, input, textarea, a, button {
+    cursor:url('https://pic.imgdb.cn/item/65f172079f345e8d0314a796.png'), auto;
+}
+
+.bt {
+      background-color: rgb(0, 0, 0,0.7)!important;
+      backdrop-filter: blur(6px)!important;
+}
+
+.card{
+      background-color: rgb(255, 255, 255,0.3)!important;
+      backdrop-filter: blur(6px)!important;
+}
+
+.form-control {
+      background-color: rgb(255, 255, 255,0.1)!important;
+      backdrop-filter: blur(6px)!important;
+}
+
+.breadcrumb {
+      visibility: hidden!important;
+}
+
+.list-group-item  {
+      background-color: rgb(255, 255, 255,0.5)!important;
+      backdrop-filter: blur(6px)!important;
+}
+
+.page  {
+      background-color: rgb(255, 255, 255,0)!important;
+}
+
+.modal-content {
+      background-color: rgb(255, 255, 255,0.6)!important;
+      backdrop-filter: blur(6px)!important;
+}
+
+.swal2-popup {
+      background-color: rgb(255, 255, 255,0.6)!important;
+      backdrop-filter: blur(6px)!important;
+}
+
+.mx-2 {display:none!important;}
+
+.breadcrumb-item{display:none!important;}
+
+.btn-primary {
+      opacity: 0.6;
+}
+
+.swal2-success-circular-line-right {display:none!important;}
+
+.swal2-success-circular-line-left {display:none!important;}
+
+.swal2-success-fix {display:none!important;}
